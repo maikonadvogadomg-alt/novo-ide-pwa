@@ -1,2 +1,1 @@
-# novo-ide-pwa
-PWA publicado pelo APK Builder
+# novo-ide
